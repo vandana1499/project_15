@@ -1,0 +1,23 @@
+#h
+{
+  
+  
+border-right: 2px solid #111;
+  width:0ch; 
+  overflow: hidden;
+  animation: type 7s steps(5);
+  animation-fill-mode: forwards;
+
+}
+
+@keyframes type
+{
+    from
+    {
+       width:0ch;   
+    }
+    to 
+    {
+     width:7ch;
+    }
+}
